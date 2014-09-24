@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# wed2
+#
+
+projectname: wed2
+vendorid: com.wed2
+mainmodule: com.wed2.wed2
